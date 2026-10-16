@@ -24,7 +24,7 @@ jobs:
           # Disabled npm Cache Setup: Removed cache due to absence of committed lock file in runner
 
       - name: Install Dependencies
-        run: npm install
+        run: npm install --legacy-peer-deps
 
       - name: Build Production Assets
         # Relative base ('./') is configured in vite.config.ts for portable asset resolution
