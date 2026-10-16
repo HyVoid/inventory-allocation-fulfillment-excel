@@ -13,7 +13,6 @@ No signup. No software installation. Instant access via the free web-based fulfi
 > - 🌐 **[Launch the Free Web-Based Inventory Allocation & ATP Simulator](YOUR_HTML_DEMO_URL)** — Test multi-warehouse order sourcing hierarchies, simulate split-shipment rules, and check delivery feasibility online without installing software or configuring spreadsheets.
 > - 📥 **[Download the Multi-Location Order Fulfillment Excel Workbook (.xlsx)](YOUR_EXCEL_PURCHASE_URL)** — Get the full 13-sheet operational workbook for recurring ERP data imports, offline reservation ledger tracking, and automated net replenishment calculations. *Includes a 30-day, no-questions-asked money-back guarantee.*
 >
-> *Deployment Note: Replace the two URL placeholders above with the live browser demo and Excel distribution links prior to publishing.*
 
 ---
 
