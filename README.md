@@ -1,4 +1,5 @@
 # Multi-Location Inventory Allocation & Order Fulfillment Excel Template (ATP & Procurement Calculator)
+<img width="1920" height="833" alt="image" src="https://github.com/user-attachments/assets/1379f571-ef41-486b-9c87-e6dc5cb96b2e" />
 
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Browser%20%7C%20Excel-217346.svg)
@@ -11,7 +12,7 @@ No signup. No software installation. Instant access via the free web-based fulfi
 > **Access the Inventory Allocation & Fulfillment Planning Tools**
 >
 > - 🌐 **[Launch the Free Web-Based Inventory Allocation & ATP Simulator](YOUR_HTML_DEMO_URL)** — Test multi-warehouse order sourcing hierarchies, simulate split-shipment rules, and check delivery feasibility online without installing software or configuring spreadsheets.
-> - 📥 **[Download the Multi-Location Order Fulfillment Excel Workbook (.xlsx)](YOUR_EXCEL_PURCHASE_URL)** — Get the full 13-sheet operational workbook for recurring ERP data imports, offline reservation ledger tracking, and automated net replenishment calculations. *Includes a 30-day, no-questions-asked money-back guarantee.*
+> - 📥 **[Download the Multi-Location Order Fulfillment Excel Workbook (.xlsx)](https://theseusworkshop.com/l/gxemem)** — Get the full 13-sheet operational workbook for recurring ERP data imports, offline reservation ledger tracking, and automated net replenishment calculations. *Includes a 30-day, no-questions-asked money-back guarantee.*
 >
 
 ---
