@@ -11,8 +11,8 @@ No signup. No software installation. Instant access via the free web-based fulfi
 
 > **Access the Inventory Allocation & Fulfillment Planning Tools**
 >
-> - 🌐 **[Launch the Free Web-Based Inventory Allocation & ATP Simulator](YOUR_HTML_DEMO_URL)** — Test multi-warehouse order sourcing hierarchies, simulate split-shipment rules, and check delivery feasibility online without installing software or configuring spreadsheets.
-> - 📥 **[Download the Multi-Location Order Fulfillment Excel Workbook (.xlsx)](https://theseusworkshop.com/l/gxemem)** — Get the full 13-sheet operational workbook for recurring ERP data imports, offline reservation ledger tracking, and automated net replenishment calculations. *Includes a 30-day, no-questions-asked money-back guarantee.*
+> - 🌐 **[Launch the Free Web-Based Inventory Allocation & ATP Simulator](https://hyvoid.github.io/inventory-allocation-fulfillment-excel/)** — Test multi-warehouse order sourcing hierarchies, simulate split-shipment rules, and check delivery feasibility online without installing software or configuring spreadsheets.
+> - 📥 **[Download the Multi-Location Order Fulfillment Excel Workbook (.xlsx)](https://theseusworkshop.com/l/gxemem?utm_source=github&utm_medium=GitHub%20README)** — Get the full 13-sheet operational workbook for recurring ERP data imports, offline reservation ledger tracking, and automated net replenishment calculations. *Includes a 30-day, no-questions-asked money-back guarantee.*
 >
 
 ---
@@ -64,7 +64,7 @@ Trigger workbook recalculation and follow the three-stage decision review:
 When high-priority sales orders require guaranteed stock protection, log the allocated supply IDs into `09_Reservations_Ledger` and toggle the status to `Active` to shield that inventory from subsequent runs.
 
 > 📦 **Ready to eliminate manual inventory reconciliation across your warehouse network?** 
-> After testing the sourcing hierarchy in the **[Free Browser-Based Inventory Allocation Simulator](YOUR_HTML_DEMO_URL)**, download the **[Full Multi-Location Order Fulfillment Excel Workbook (.xlsx)](YOUR_EXCEL_PURCHASE_URL)** to connect your live ERP exports, maintain a persistent reservation ledger, and run weekly S&OP replenishment cycles offline.
+> After testing the sourcing hierarchy in the **[Free Browser-Based Inventory Allocation Simulator](https://hyvoid.github.io/inventory-allocation-fulfillment-excel/)**, download the **[Full Multi-Location Order Fulfillment Excel Workbook (.xlsx)](https://theseusworkshop.com/l/gxemem?utm_source=github&utm_medium=GitHub%20README)** to connect your live ERP exports, maintain a persistent reservation ledger, and run weekly S&OP replenishment cycles offline.
 
 ---
 
