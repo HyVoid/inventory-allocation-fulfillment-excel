@@ -1,7 +1,7 @@
 # Multi-Location Inventory Allocation & Order Fulfillment Excel Template (ATP & Procurement Calculator)
 <img width="1920" height="833" alt="image" src="https://github.com/user-attachments/assets/1379f571-ef41-486b-9c87-e6dc5cb96b2e" />
 
-![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 ![Platform](https://img.shields.io/badge/Platform-Browser%20%7C%20Excel-217346.svg)
 ![Category](https://img.shields.io/badge/Tool-Supply%20Chain%20%26%20ATP%20Planning-2251FF.svg)
 
