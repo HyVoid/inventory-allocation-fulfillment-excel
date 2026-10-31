@@ -17,7 +17,7 @@ export const Footer: React.FC = () => {
           </span>
         </div>
         <div className="flex items-center gap-4 text-[11px]">
-          <span>OFIA Decision Engine v2.4</span>
+          <span>Theseus Workshop · OFIA Decision Engine</span>
           <span>•</span>
           <span>28 Hub Network Mode</span>
           <span>•</span>

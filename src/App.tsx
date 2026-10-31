@@ -93,17 +93,22 @@ export default function App() {
       <div className="flex-1 flex flex-col min-w-0 lg:pl-[260px] transition-all duration-200">
         {/* Mobile Top Header (only on screens < lg) */}
         <header className="lg:hidden sticky top-0 z-30 h-14 bg-white border-b border-[#E8E8E6] px-4 flex items-center justify-between">
-          <div className="flex items-center gap-3">
+          <div className="flex items-center gap-2.5 min-w-0 pr-2">
             <button
               onClick={() => setIsMobileSidebarOpen(true)}
-              className="p-1.5 text-[#051C2C] hover:bg-[#F5F5F2] rounded-md transition-colors"
+              className="p-1.5 text-[#051C2C] hover:bg-[#F5F5F2] rounded-md transition-colors shrink-0"
               aria-label="Open navigation sidebar"
             >
               <Menu className="w-5 h-5" />
             </button>
-            <span className="font-garamond text-[20px] font-bold text-[#051C2C]">
-              OFIA Engine
-            </span>
+            <div className="flex flex-col min-w-0">
+              <span className="font-garamond text-[17px] font-bold text-[#051C2C] leading-none truncate">
+                Theseus Workshop
+              </span>
+              <span className="text-[10px] text-[#888888] font-medium leading-none truncate mt-0.5">
+                OFIA · Order Fulfillment &amp; Inventory Allocation
+              </span>
+            </div>
           </div>
 
           <div className="flex items-center gap-2 text-[11px] text-[#888888]">

@@ -83,11 +83,11 @@ export const Navbar: React.FC<NavbarProps> = ({
         {/* Brand identity */}
         <div className="flex items-center gap-3 shrink-0">
           <div className="flex items-center gap-2">
-            <span className="font-garamond text-[22px] font-bold tracking-display text-[#051C2C] leading-none">
-              OFIA
+            <span className="font-garamond text-[20px] font-bold tracking-display text-[#051C2C] leading-none">
+              Theseus Workshop
             </span>
             <span className="text-[10px] tracking-wider uppercase font-semibold text-[#888888] border-l border-[#E8E8E6] pl-2 hidden sm:inline-block">
-              SaaS Decision Engine
+              OFIA · Order Fulfillment &amp; Inventory Allocation
             </span>
           </div>
         </div>

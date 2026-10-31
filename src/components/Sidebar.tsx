@@ -188,25 +188,23 @@ export const Sidebar: React.FC<SidebarProps> = ({
         }`}
       >
         {/* Brand Header */}
-        <div className="h-[64px] px-5 flex items-center justify-between border-b border-[#E8E8E6] shrink-0">
-          <div className="flex items-center gap-2.5">
-            <span className="font-garamond text-[24px] font-bold tracking-display text-[#051C2C] leading-none">
-              OFIA
+        <div className="h-[72px] px-5 flex items-center justify-between border-b border-[#E8E8E6] shrink-0">
+          <div className="flex flex-col min-w-0 pr-2">
+            <span className="font-garamond text-[20px] font-bold tracking-display text-[#051C2C] leading-none truncate">
+              Theseus Workshop
             </span>
-            <div className="flex flex-col">
-              <span className="text-[10px] tracking-wider uppercase font-semibold text-[#888888] leading-tight">
-                Decision Engine
-              </span>
-              <span className="text-[9px] text-[#2251FF] font-semibold leading-tight">
-                28-Hub Network
-              </span>
-            </div>
+            <span className="text-[10px] tracking-wider uppercase font-semibold text-[#888888] leading-tight truncate mt-1">
+              Order Fulfillment &amp; Inventory Allocation
+            </span>
+            <span className="text-[9px] text-[#2251FF] font-semibold leading-tight truncate mt-0.5">
+              OFIA Decision System · 28-Hub Network
+            </span>
           </div>
 
           {/* Mobile close button */}
           <button
             onClick={onCloseMobile}
-            className="lg:hidden p-1 text-[#888888] hover:text-[#051C2C] rounded-md"
+            className="lg:hidden p-1 text-[#888888] hover:text-[#051C2C] rounded-md shrink-0"
           >
             <X className="w-5 h-5" />
           </button>
