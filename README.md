@@ -32,6 +32,14 @@ Instead of manually cross-referencing static ERP exports, this parametric alloca
 | **Panic Buying & Gross-Demand Over-Purchasing** | Calculates true net inventory deficits only after exhausting all allocatable network stock and inbound replenishment pipelines. | Net deficit quantity, MOQ & standard pack-size adjusted order quantity, latest PO release start date |
 | **Hidden Master Data & ERP Export Errors** | Runs pre-allocation diagnostic checks across imported sales orders, SKU master tables, and reservation records. | Orphaned shipment alerts, missing SKU/location code flags, expired quote reservations, over-allocation conflicts |
 
+## Spreadsheet Preview
+
+Want to take a closer look before downloading? You can preview the spreadsheet in Google Sheets to explore its layout, structure, and calculation logic.
+
+**[View Spreadsheet Preview on Google Sheets](https://docs.google.com/spreadsheets/d/159sTHQT2uTYQ9a2MLhEvBgmzoiV8sYkp/edit?usp=sharing&ouid=108770714531989318327&rtpof=true&sd=true)**
+
+> **Note on Compatibility:** The Google Sheets preview may display occasional `#NAME?` errors or formula warnings due to differences between Google Sheets and Microsoft Excel formula compatibility. These are preview-only compatibility issues and do not affect the functionality of the original Excel workbook. For the intended formula behavior and full functionality, please download and open the `.xlsx` file in Microsoft Excel.
+
 ---
 
 ## Step-by-Step Tutorial: How to Run Multi-Warehouse Inventory Allocation & Net Replenishment
