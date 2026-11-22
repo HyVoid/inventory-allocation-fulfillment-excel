@@ -621,6 +621,23 @@ Its usefulness depends on consistent identifiers, current operational inputs, se
 * **[Universal-3D-Cargo-Loading-Optimization-Simulator](https://github.com/HyVoid/Universal-3D-Cargo-Loading-Optimization-Simulator)** — How should cargo be loaded to reduce wasted space and operational friction? — Simulate 3D cargo loading configurations to maximize container capacity and shipping efficiency.
 * **[Cross-Border-DTC-Inventory-Governance-Console](https://github.com/HyVoid/Cross-Border-DTC-Inventory-Governance-Console)** — What is the real purchasing demand after removing pre-order liabilities and expected returns? — Reconstruct true demand signals by isolating pre-order obligations and return behavior from raw sales data.
 
+## Questions, Feedback & Product Updates
+
+This repository is part of the Theseus Workshop collection of lightweight, reusable decision-support tools. Feedback is welcome on practical usage questions, workflow gaps, reproducible calculation problems, and improvement ideas.
+
+- **Questions and usage help:** [Open a discussion](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/questions)
+- **Ideas and workflow suggestions:** [Share an idea](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/ideas)
+- **Product updates:** [Follow product updates](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/product-updates)
+- **Technical bugs:** Use the **Report a bug** issue form in this repository. Include the tool / workbook version, affected workflow area, expected vs. actual result, and reproducible steps.
+
+## Privacy & Data Handling Notice
+
+Please use synthetic or adequately de-identified examples when reporting issues. Do not publish raw workbooks, source exports, credentials, personal information, or confidential commercial records in public GitHub issues or discussions.
+
+Do not submit customer orders, real SKU / supplier master data, warehouse addresses, shipment manifests, customs documents, or commercially sensitive purchasing records. Use invented SKUs, locations, and order IDs.
+
+For browser-based tools, do not infer data storage, transmission, or retention behavior from the user interface alone. Check the current implementation and applicable data-handling notes before testing with real business data. When uncertain, use synthetic data only.
+
 ## License
 
 This project is distributed under the Apache License 2.0, as indicated by the license badge. Review the repository's `LICENSE` file for the complete license terms.
